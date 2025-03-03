@@ -89,9 +89,9 @@ namespace Omm_software
             textBox_Zt = new TextBox();
             tableLayoutPanel2 = new TableLayoutPanel();
             label1 = new Label();
-            bt_calcu_points = new Button();
             bt_view_points = new Button();
             label2 = new Label();
+            bt_calcu_points = new Button();
             button1 = new Button();
             label3 = new Label();
             button2 = new Button();
@@ -959,24 +959,11 @@ namespace Omm_software
             label1.TextAlign = ContentAlignment.MiddleCenter;
             label1.Click += label1_Click;
             // 
-            // bt_calcu_points
-            // 
-            bt_calcu_points.Anchor = AnchorStyles.Left | AnchorStyles.Right;
-            bt_calcu_points.BackgroundImage = (Image)resources.GetObject("bt_calcu_points.BackgroundImage");
-            bt_calcu_points.BackgroundImageLayout = ImageLayout.Zoom;
-            bt_calcu_points.FlatStyle = FlatStyle.Flat;
-            bt_calcu_points.Location = new Point(3, 4);
-            bt_calcu_points.Name = "bt_calcu_points";
-            bt_calcu_points.Size = new Size(141, 145);
-            bt_calcu_points.TabIndex = 0;
-            bt_calcu_points.Text = "\r\n";
-            bt_calcu_points.UseVisualStyleBackColor = true;
-            // 
             // bt_view_points
             // 
             bt_view_points.Anchor = AnchorStyles.Left | AnchorStyles.Right;
             bt_view_points.BackColor = Color.Transparent;
-            bt_view_points.BackgroundImage = (Image)resources.GetObject("bt_view_points.BackgroundImage");
+            bt_view_points.BackgroundImage = Properties.Resources.Calcu;
             bt_view_points.BackgroundImageLayout = ImageLayout.Zoom;
             bt_view_points.FlatStyle = FlatStyle.Flat;
             bt_view_points.ForeColor = SystemColors.Control;
@@ -1002,11 +989,24 @@ namespace Omm_software
             label2.TextAlign = ContentAlignment.MiddleCenter;
             label2.Click += label1_Click;
             // 
+            // bt_calcu_points
+            // 
+            bt_calcu_points.Anchor = AnchorStyles.Left | AnchorStyles.Right;
+            bt_calcu_points.BackgroundImage = Properties.Resources.计算;
+            bt_calcu_points.BackgroundImageLayout = ImageLayout.Zoom;
+            bt_calcu_points.FlatStyle = FlatStyle.Flat;
+            bt_calcu_points.Location = new Point(3, 4);
+            bt_calcu_points.Name = "bt_calcu_points";
+            bt_calcu_points.Size = new Size(141, 145);
+            bt_calcu_points.TabIndex = 0;
+            bt_calcu_points.Text = "\r\n";
+            bt_calcu_points.UseVisualStyleBackColor = true;
+            // 
             // button1
             // 
             button1.Anchor = AnchorStyles.Left | AnchorStyles.Right;
             button1.BackColor = Color.Transparent;
-            button1.BackgroundImage = (Image)resources.GetObject("button1.BackgroundImage");
+            button1.BackgroundImage = Properties.Resources.导出测点;
             button1.BackgroundImageLayout = ImageLayout.Zoom;
             button1.FlatStyle = FlatStyle.Flat;
             button1.ForeColor = SystemColors.Control;
@@ -1028,7 +1028,7 @@ namespace Omm_software
             label3.Name = "label3";
             label3.Size = new Size(141, 31);
             label3.TabIndex = 1;
-            label3.Text = "测点预览";
+            label3.Text = "导出测点";
             label3.TextAlign = ContentAlignment.MiddleCenter;
             label3.Click += label1_Click;
             // 
@@ -1036,7 +1036,7 @@ namespace Omm_software
             // 
             button2.Anchor = AnchorStyles.Left | AnchorStyles.Right;
             button2.BackColor = Color.Transparent;
-            button2.BackgroundImage = (Image)resources.GetObject("button2.BackgroundImage");
+            button2.BackgroundImage = Properties.Resources.NC码;
             button2.BackgroundImageLayout = ImageLayout.Zoom;
             button2.FlatStyle = FlatStyle.Flat;
             button2.ForeColor = SystemColors.Control;
@@ -1058,7 +1058,7 @@ namespace Omm_software
             label4.Name = "label4";
             label4.Size = new Size(141, 31);
             label4.TabIndex = 1;
-            label4.Text = "测点预览";
+            label4.Text = "生成NC";
             label4.TextAlign = ContentAlignment.MiddleCenter;
             label4.Click += label1_Click;
             // 

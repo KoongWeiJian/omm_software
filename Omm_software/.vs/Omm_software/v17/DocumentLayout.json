@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\WeijianKong\\OneDrive\\\u7814\u7A76\u751F\u5DE5\u4F5C\\\u9762\u9F7F\u8F6E\u5728\u673A\u6D4B\u91CF\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\u5F00\u53D1\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\\Omm_software\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61D476EB-464F-43C5-BA66-3B60F58AC324}|Omm_software.csproj|c:\\users\\weijiankong\\onedrive\\\u7814\u7A76\u751F\u5DE5\u4F5C\\\u9762\u9F7F\u8F6E\u5728\u673A\u6D4B\u91CF\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\u5F00\u53D1\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\\omm_software\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61D476EB-464F-43C5-BA66-3B60F58AC324}|Omm_software.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61D476EB-464F-43C5-BA66-3B60F58AC324}|Omm_software.csproj|c:\\users\\weijiankong\\onedrive\\\u7814\u7A76\u751F\u5DE5\u4F5C\\\u9762\u9F7F\u8F6E\u5728\u673A\u6D4B\u91CF\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\u5F00\u53D1\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\\omm_software\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{61D476EB-464F-43C5-BA66-3B60F58AC324}|Omm_software.csproj|solutionrelative:main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61D476EB-464F-43C5-BA66-3B60F58AC324}|Omm_software.csproj|c:\\users\\weijiankong\\onedrive\\\u7814\u7A76\u751F\u5DE5\u4F5C\\\u9762\u9F7F\u8F6E\u5728\u673A\u6D4B\u91CF\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\u5F00\u53D1\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\\omm_software\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61D476EB-464F-43C5-BA66-3B60F58AC324}|Omm_software.csproj|solutionrelative:main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61D476EB-464F-43C5-BA66-3B60F58AC324}|Omm_software.csproj|c:\\users\\weijiankong\\onedrive\\\u7814\u7A76\u751F\u5DE5\u4F5C\\\u9762\u9F7F\u8F6E\u5728\u673A\u6D4B\u91CF\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\u5F00\u53D1\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\\omm_software\\omm_software.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61D476EB-464F-43C5-BA66-3B60F58AC324}|Omm_software.csproj|solutionrelative:omm_software.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61D476EB-464F-43C5-BA66-3B60F58AC324}|Omm_software.csproj|c:\\users\\weijiankong\\onedrive\\\u7814\u7A76\u751F\u5DE5\u4F5C\\\u9762\u9F7F\u8F6E\u5728\u673A\u6D4B\u91CF\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\u5F00\u53D1\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\\omm_software\\main_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61D476EB-464F-43C5-BA66-3B60F58AC324}|Omm_software.csproj|solutionrelative:main_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D476EB-464F-43C5-BA66-3B60F58AC324}|Omm_software.csproj|C:\\Users\\WeijianKong\\OneDrive\\\u7814\u7A76\u751F\u5DE5\u4F5C\\\u9762\u9F7F\u8F6E\u5728\u673A\u6D4B\u91CF\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\u5F00\u53D1\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\\Omm_software\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61D476EB-464F-43C5-BA66-3B60F58AC324}|Omm_software.csproj|solutionrelative:main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D476EB-464F-43C5-BA66-3B60F58AC324}|Omm_software.csproj|c:\\users\\weijiankong\\onedrive\\\u7814\u7A76\u751F\u5DE5\u4F5C\\\u9762\u9F7F\u8F6E\u5728\u673A\u6D4B\u91CF\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\u5F00\u53D1\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\\omm_software\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D476EB-464F-43C5-BA66-3B60F58AC324}|Omm_software.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,66 +31,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\WeijianKong\\OneDrive\\\u7814\u7A76\u751F\u5DE5\u4F5C\\\u9762\u9F7F\u8F6E\u5728\u673A\u6D4B\u91CF\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\u5F00\u53D1\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\\Omm_software\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\WeijianKong\\OneDrive\\\u7814\u7A76\u751F\u5DE5\u4F5C\\\u9762\u9F7F\u8F6E\u5728\u673A\u6D4B\u91CF\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\u5F00\u53D1\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\\Omm_software\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T10:56:26.116Z",
+              "Title": "Omm_software",
+              "DocumentMoniker": "C:\\Users\\WeijianKong\\OneDrive\\\u7814\u7A76\u751F\u5DE5\u4F5C\\\u9762\u9F7F\u8F6E\u5728\u673A\u6D4B\u91CF\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\u5F00\u53D1\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\\Omm_software\\Omm_software.csproj",
+              "RelativeDocumentMoniker": "Omm_software.csproj",
+              "ToolTip": "C:\\Users\\WeijianKong\\OneDrive\\\u7814\u7A76\u751F\u5DE5\u4F5C\\\u9762\u9F7F\u8F6E\u5728\u673A\u6D4B\u91CF\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\u5F00\u53D1\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\\Omm_software\\Omm_software.csproj",
+              "RelativeToolTip": "Omm_software.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T15:56:59.532Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Main_form.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\WeijianKong\\OneDrive\\\u7814\u7A76\u751F\u5DE5\u4F5C\\\u9762\u9F7F\u8F6E\u5728\u673A\u6D4B\u91CF\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\u5F00\u53D1\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\\Omm_software\\Main_form.Designer.cs",
-              "RelativeDocumentMoniker": "Main_form.Designer.cs",
-              "ToolTip": "C:\\Users\\WeijianKong\\OneDrive\\\u7814\u7A76\u751F\u5DE5\u4F5C\\\u9762\u9F7F\u8F6E\u5728\u673A\u6D4B\u91CF\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\u5F00\u53D1\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\\Omm_software\\Main_form.Designer.cs",
-              "RelativeToolTip": "Main_form.Designer.cs",
-              "ViewState": "AgIAAMsDAAAAAAAAAAAIwNUDAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T07:02:14.416Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "7adcb1de-7827-43ed-92c2-b481c30cb192",
-        "Display": 1,
-        "X": 699,
-        "Y": 200,
-        "Width": 878,
-        "Height": 704,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Main_form.cs",
-              "DocumentMoniker": "C:\\Users\\WeijianKong\\OneDrive\\\u7814\u7A76\u751F\u5DE5\u4F5C\\\u9762\u9F7F\u8F6E\u5728\u673A\u6D4B\u91CF\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\u5F00\u53D1\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\\Omm_software\\Main_form.cs",
-              "RelativeDocumentMoniker": "Main_form.cs",
-              "ToolTip": "C:\\Users\\WeijianKong\\OneDrive\\\u7814\u7A76\u751F\u5DE5\u4F5C\\\u9762\u9F7F\u8F6E\u5728\u673A\u6D4B\u91CF\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\u5F00\u53D1\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\\Omm_software\\Main_form.cs",
-              "RelativeToolTip": "Main_form.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T11:06:38.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Main_form.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "C:\\Users\\WeijianKong\\OneDrive\\\u7814\u7A76\u751F\u5DE5\u4F5C\\\u9762\u9F7F\u8F6E\u5728\u673A\u6D4B\u91CF\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\u5F00\u53D1\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\\Omm_software\\Main_form.cs",
               "RelativeDocumentMoniker": "Main_form.cs",
@@ -99,6 +56,32 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T07:04:09.281Z",
               "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WeijianKong\\OneDrive\\\u7814\u7A76\u751F\u5DE5\u4F5C\\\u9762\u9F7F\u8F6E\u5728\u673A\u6D4B\u91CF\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\u5F00\u53D1\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\\Omm_software\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\WeijianKong\\OneDrive\\\u7814\u7A76\u751F\u5DE5\u4F5C\\\u9762\u9F7F\u8F6E\u5728\u673A\u6D4B\u91CF\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\u5F00\u53D1\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\\Omm_software\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:56:26.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main_form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\WeijianKong\\OneDrive\\\u7814\u7A76\u751F\u5DE5\u4F5C\\\u9762\u9F7F\u8F6E\u5728\u673A\u6D4B\u91CF\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\u5F00\u53D1\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\\Omm_software\\Main_form.Designer.cs",
+              "RelativeDocumentMoniker": "Main_form.Designer.cs",
+              "ToolTip": "C:\\Users\\WeijianKong\\OneDrive\\\u7814\u7A76\u751F\u5DE5\u4F5C\\\u9762\u9F7F\u8F6E\u5728\u673A\u6D4B\u91CF\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\u5F00\u53D1\\\u5728\u673A\u6D4B\u91CF\u8F6F\u4EF6\\Omm_software\\Main_form.Designer.cs",
+              "RelativeToolTip": "Main_form.Designer.cs",
+              "ViewState": "AgIAALEDAAAAAAAAAADgv8UDAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:02:14.416Z",
+              "EditorCaption": ""
             }
           ]
         }
