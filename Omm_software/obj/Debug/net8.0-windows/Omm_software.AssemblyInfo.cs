@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Omm_software")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8936befa070cd6aff7eb3da7c6744ccecf6b79c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Omm_software")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Omm_software")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
